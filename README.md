@@ -4,6 +4,6 @@
 
 const nazavilla = {
   code: [Javascript, HTML, CSS, Python],
-  tools: [Bootstrap],
+  tools: [Bootstrap, npm],
   databases: [MySQL]
 }
