@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+const nazavilla = {
+  code: [Javascript, HTML, CSS, Python],
+  tools: [Bootstrap],
+  databases: [MySQL]
+}
+
