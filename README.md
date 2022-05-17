@@ -2,8 +2,8 @@
 
 ### About me
 
-const nazavilla = {
-  code: [Javascript, HTML, CSS, Python],
-  tools: [Bootstrap, npm],
-  databases: [MySQL]
+const nazavilla = { <br>
+  code: [Javascript, HTML, CSS, Python], <br>
+  tools: [Bootstrap, npm], <br>
+  databases: [MySQL] <br>
 }
