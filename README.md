@@ -2,7 +2,7 @@
 
 ### About me
 
-const nazavilla = { <br>
+const Nazareth = { <br>
   Languages: [ "Javascript", "Python" ], <br>
   Frameworks: [ "Bootstrap" ], <br>
   Package Manager: [ "npm" ]
