@@ -3,7 +3,9 @@
 ### About me
 
 const nazavilla = { <br>
-  code: [ "Javascript", "Python" ], <br>
-  tools: [ "Bootstrap", "npm" ], <br>
+  Languages: [ "Javascript", "Python" ], <br>
+  Frameworks: [ "Bootstrap" ], <br>
+  Package Manager: [ "npm" ]
+  Tools: [ "Git", "VS Code" ] <br>
   databases: [ "MySQL" ] <br>
 }
